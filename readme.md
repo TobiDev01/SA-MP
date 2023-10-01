@@ -1,2 +1,2 @@
-SA-MP Egg for Pterodactyl
+**SA-MP Egg for Pterodactyl**
 * Custom Slots
